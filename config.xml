@@ -1,0 +1,9 @@
+<launch4jConfig>
+  <headerType>gui</headerType>
+  <jar>target/David_Collados_Blanco_DESIN_Tarea5-0.0.1-SNAPSHOT.jar</jar>
+  <outfile>target/David_Collados_Blanco_DESIN_Tarea5.exe</outfile>
+  <icon>icono.ico</icon>
+  <jre>
+    <minVersion>1.8.0</minVersion>
+  </jre>
+</launch4jConfig>
